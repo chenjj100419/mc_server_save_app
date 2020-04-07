@@ -1,0 +1,31 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/VisualStudio/Community/Common7 -DCMAKE_C_COMPILER=D:/VisualStudio/Community/VC# -DCMAKE_CXX_COMPILER=D:/VisualStudio/Community/VC -G "CodeBlocks - NMake Makefiles" Z:\Users\PC\CLionProjects\mc_server_save_app
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: D:/VisualStudio/Community/VC#
+CMake Error: Generator: execution of make failed. Make command was: D:/VisualStudio/Community/Common7 /nologo cmTC_d5e63\fast && 
+-- Check for working C compiler: D:/VisualStudio/Community/VC# -- broken
+CMake Error at C:/Program Files/JetBrains/CLion 2019.3.3/bin/cmake/win/share/cmake-3.15/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "D:/VisualStudio/Community/VC#"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: Z:/Users/PC/CLionProjects/mc_server_save_app/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):D:/VisualStudio/Community/Common7 /nologo cmTC_d5e63\fast && 鎷掔粷璁块棶銆�
+    Generator: execution of make failed. Make command was: D:/VisualStudio/Community/Common7 /nologo cmTC_d5e63\fast && 
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "Z:/Users/PC/CLionProjects/mc_server_save_app/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "Z:/Users/PC/CLionProjects/mc_server_save_app/cmake-build-debug/CMakeFiles/CMakeError.log".
