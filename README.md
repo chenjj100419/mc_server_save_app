@@ -30,21 +30,21 @@ Core lib :
 #include <unistd.h>
 ```
 
-my GitHub:[www.github.com/chenjj100419](Link)
+my GitHub:[Link](www.github.com/chenjj100419)
 
-#### Software called in code: 	WinRaR Link:[www.winrar.com](RaRLinks) 
+#### Software called in code: 	WinRaR Link:[RaRLinks](www.winrar.com) 
 
 Core use a WinRaR\Rar.exe and unRar.exe 
 
 VERSION LIST:
 
-| TIME     | VERSION | Remarks                        |
-| -------- | ------- | ------------------------------ |
-| 2020/4/6 | 1.0.0   | This version is NOT RUN!       |
-| 2020/4/7 | 1.0.1   | This version is has not debug! |
-| 2020/4/8 | 1.0.1   | No                             |
-|          |         |                                |
-|          |         |                                |
+| TIME      | VERSION | Remarks                        |
+| --------  | ------- | ------------------------------ |
+| 2020/4/6  | 1.0.0   | This version is NOT RUN!       |
+| 2020/4/7  | 1.0.1   | This version is has not debug! |
+| 2020/4/8  | 1.0.1   | No                             |
+| 2020/4/10 | 1.0.1   |                                |
+|           |         |                                |
 
 
 
@@ -66,9 +66,9 @@ FUNCTION LIST:
 
 #### 																																								<u>			※by chenjj100419※</u>
 
-MY [https://space.bilibili.com/397468524](BiliBili) [www.github.com/chenjj100419](GitHub) [https://www.mcbbs.net/home.php?mod=space&uid=2995229](MCBBS)
+MY [BiliBili](https://space.bilibili.com/397468524) [GitHub](www.github.com/chenjj100419) [MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=2995229)
 
-[https://www.mcmod.cn/center/107698/](MCMOD)
+[MCMOD](https://www.mcmod.cn/center/107698/)
 
 ###### Contact information:
 
